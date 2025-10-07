@@ -14,3 +14,31 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# 忽略 GitHub Actions 配置文件
+.github/
+
+# 忽略 Visual Studio Code 配置文件
+.vscode/
+
+# 忽略编译生成的文件
+bin/
+obj/
+
+# 操作系统和编辑器相关
+Thumbs.db
+.DS_Store
+*.swp
+*.bak
+
+# NuGet 包
+*.nupkg
+packages/
+.nuget/
+
+# Rider IDE
+.idea/
+*.sln.DotSettings
+*.sln.iml
+*.csproj.iml
+*.user.iml

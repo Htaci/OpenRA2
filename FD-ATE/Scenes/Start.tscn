@@ -1,0 +1,73 @@
+[gd_scene load_steps=5 format=3 uid="uid://inbitvu68c1o"]
+
+[ext_resource type="Script" uid="uid://bw1hdcugtrjd4" path="res://Logic/HomeUI/ButtonClick.cs" id="1_1lxxj"]
+[ext_resource type="Texture2D" uid="uid://dl5eyrck14j0l" path="res://Resource/RA2OE/UI/splash screen.png" id="1_og4jd"]
+[ext_resource type="Texture2D" uid="uid://csb6qr6ylcbok" path="res://Resource/RA2OE/UI/background.png" id="1_y4ycm"]
+[ext_resource type="Script" uid="uid://dufv67vc7me0w" path="res://Logic/HomeUI/splash_screen.cs" id="2_nt0jr"]
+
+[node name="Node3d" type="Node3D"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="H_Panel" type="TextureRect" parent="Control"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Button" type="Button" parent="Control/H_Panel"]
+layout_mode = 1
+offset_left = 46.0
+offset_top = 90.0
+offset_right = 283.0
+offset_bottom = 149.9091
+text = "战役"
+
+[node name="Button2" type="Button" parent="Control/H_Panel"]
+layout_mode = 0
+offset_left = 46.0
+offset_top = 184.0
+offset_right = 283.0
+offset_bottom = 243.9091
+text = "遭遇战"
+
+[node name="Button3" type="Button" parent="Control/H_Panel"]
+layout_mode = 0
+offset_left = 46.0
+offset_top = 276.0
+offset_right = 283.0
+offset_bottom = 335.90912
+text = "Mod编辑器"
+
+[node name="S_Panel" type="TextureRect" parent="Control"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource("1_y4ycm")
+
+[node name="splash_screen" type="TextureRect" parent="Control/S_Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_og4jd")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="Node" type="Node" parent="." node_paths=PackedStringArray("textureRect", "backgroundTextureRect")]
+script = ExtResource("2_nt0jr")
+textureRect = NodePath("../Control/S_Panel/splash_screen")
+backgroundTextureRect = NodePath("../Control/S_Panel")
+
+[node name="Node2" type="Node" parent="." node_paths=PackedStringArray("button3")]
+script = ExtResource("1_1lxxj")
+button3 = NodePath("../Control/H_Panel/Button3")

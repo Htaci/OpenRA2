@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cunq3dr1rrbq5"]
+
+[node name="Game2d" type="Node2D"]
+
+[node name="RA2OE" type="Node" parent="."]
+metadata/synopsis = "原版的UI风格"
+
+[node name="RA2NE" type="Node" parent="."]
