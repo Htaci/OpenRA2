@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hologram Earth Orbit
+  m_Shader: {fileID: 4800000, guid: e99f8b80b1693284587af0c131f61f3d, type: 3}
+  m_Parent: {fileID: 2100000, guid: b4c5ecb1d6170494e98b7d5a24e15e63, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _LINE2FEATURE_ON
+  - _POSITIONFEATURE_Y
+  - _POSITIONSPACEFEATURE_WORLD
+  - _SOFTINTERSECTION1FEATURE_OFF
+  - _SOFTINTERSECTION2FEATURE_OFF
+  m_InvalidKeywords:
+  - _SOFTINTERSECTIONFEATURE_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Line2Frequency: 0.1
+    - _Line2Speed: -0.5
+    - _RandomOffset: 96909
+    m_Colors:
+    - _MainColor: {r: 0, g: 5.278032, b: 0, a: 0}
+  m_BuildTextureStacks: []

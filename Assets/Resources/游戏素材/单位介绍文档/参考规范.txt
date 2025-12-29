@@ -1,0 +1,28 @@
+///生产条件///
+Prerequisite=  使用前提
+PrerequisiteOverride= 在不满足建造前提的时候满足此前提也可以使用
+TechLevel=  科技等级
+Owner= 归属阵营  All为全部阵营（是ALL，这里的LL是小写别看错了）
+RequiredHouses=  该阵营专属使用
+ForbiddenHouses=  不能被该阵营使用，除此阵营外的其他阵营满足前提可以使用
+BuildLimit=  建造数量限制/使用次数限制（如果此属性用到技能上，则是规范此技能最多只能使用多少次，如果用到全局上，则规范此地图只能出现多少个这样的单位，不论敌我）
+
+///单位属性///
+MovementZone= 此选项决定寻路方式，也就是单位的移动能力，例如两栖还是路地亦或者是水上
+//移动有以下类型//
+Amphibious 两栖
+AmphibiousCrusher 两栖，并试图碾压步兵
+AmphibiousDestroyer 两栖，并试图摧毁障碍物（树木 沙袋 铁丝网）
+Crusher 陆地，并试图碾压步兵
+CrusherAll 陆地，并试图碾压一切包括围墙
+Destroyer 陆地，并试图摧毁障碍物和碾压沙袋
+Fly 飞行，无视除了空气墙以外的任何地形
+Teleport 传送，无视除了空气墙以外的任何地形直接来到目标点
+NoLimit 寻路无限制（此选项慎用，在原版中Fly用于飞行单位，因此无视任何地形，但在重制内包含了可以阻挡飞行单位的空气墙，因此在非特殊情况下不要使用此寻路）
+Infantry 陆地，一般步兵
+InfantryDestroyer 陆地 步兵 试图摧毁障碍物
+InfantryScale 陆地 步兵 视图攀爬悬崖和障碍物
+Normal 陆地，并试图摧毁地形障碍和碾压步兵
+Subterannean 钻地车用，移动距离远时试图钻地，不钻地时与Crusher类似
+Water 只在水中寻路
+WaterBeach  可在水中和海滩寻路

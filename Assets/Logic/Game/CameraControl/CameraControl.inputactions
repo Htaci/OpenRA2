@@ -1,0 +1,34 @@
+{
+    "name": "CameraControl",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "0ecf4321-04a8-4637-af8a-59cd47f0b5fe",
+            "actions": [
+                {
+                    "name": "TouchDrag",
+                    "type": "Value",
+                    "id": "e317df82-1b98-4053-b612-a6244f68ea4d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "236cb7a6-0c4f-4f0a-b6ce-531c3535a52a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TouchDrag",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

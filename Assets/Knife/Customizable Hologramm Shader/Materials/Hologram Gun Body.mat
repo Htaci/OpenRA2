@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hologram Gun Body
+  m_Shader: {fileID: 4800000, guid: e99f8b80b1693284587af0c131f61f3d, type: 3}
+  m_Parent: {fileID: 2100000, guid: b39cf593e663aca4784c2f092e8765b4, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _COLORGLITCHFEATURE_ON
+  - _DISSOLVEFEATURE_ON
+  - _FRESNELFEATURE_ON
+  - _GRAINFEATURE_ON
+  - _LINE1FEATURE_ON
+  - _LINE2FEATURE_ON
+  - _LINEBOTHFEATURE_ON
+  - _POSITIONFEATURE_Y
+  - _POSITIONSPACEFEATURE_WORLD
+  - _RANDOMGLITCHFEATURE_ON
+  - _SOFTINTERSECTION1FEATURE_OFF
+  - _SOFTINTERSECTION2FEATURE_OFF
+  m_InvalidKeywords:
+  - _ZWRITE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: b047d85bbf2e38d458a9506dfa8a1d9c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LineGlitch:
+        m_Texture: {fileID: 2800000, guid: 88eb97e78f86c604bb00864c0dbeffc1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 1
+    - _AlphaMaskAffect: 0.5
+    - _AlphaMaskFeature: 0
+    - _ColorGlitchAffect: 0.121
+    - _DissolveFeature: 1
+    - _FresnelAlphaPower: 2
+    - _FresnelPower: 2
+    - _GrainAffect: 0.524
+    - _Line1Frequency: 50
+    - _Line2Frequency: 1
+    - _LineGlitchFeature: 0
+    - _LineGlitchFrequency: 0.2
+    - _LineGlitchHardness: 50
+    - _LineGlitchInvertedThickness: 0.522
+    - _LineGlitchSpeed: -0.26
+    - _NormalAffect: 0
+    - _NormalMapFeature: 0
+    - _NormalScale: 0
+    - _RandomGlitchAmount: 0.068
+    - _RandomGlitchTiling: 2.83
+    - _RandomOffset: 0
+    m_Colors:
+    - _DissolveScale: {r: 0.1, g: 15, b: 0.1, a: 0}
+    - _GrainScale: {r: 50, g: 50, b: 50, a: 0}
+    - _GrainValues: {r: -1, g: 1, b: 0, a: 0}
+    - _LineGlitchOffset: {r: 0.15, g: 0, b: 0, a: 0}
+    - _MainColor: {r: 0.029961782, g: 7.0465865, b: 0, a: 0.05098039}
+    - _RandomGlitchOffset: {r: -0.5, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

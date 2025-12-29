@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u5168\u606F\u5EFA\u7B51\u9884\u89C8\u7EA2"
+  m_Shader: {fileID: 4800000, guid: 1408e03254b557644b24f0e24b5781de, type: 3}
+  m_Parent: {fileID: 2100000, guid: 8f23e7395ffb4594890efd1372f22699, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHAMASKFEATURE_ON
+  - _COLORGLITCHFEATURE_ON
+  - _DISSOLVEFEATURE_ON
+  - _FRESNELFEATURE_ON
+  - _GRAINFEATURE_ON
+  - _LINE1FEATURE_ON
+  - _LINE2FEATURE_ON
+  - _LINEBOTHFEATURE_ON
+  - _POSITIONFEATURE_Y
+  - _POSITIONSPACEFEATURE_WORLD
+  - _RANDOMGLITCHFEATURE_ON
+  - _SOFTINTERSECTION1FEATURE_OFF
+  - _SOFTINTERSECTION2FEATURE_OFF
+  m_InvalidKeywords:
+  - _DISPLACEMENTFEATURE_ON
+  - _ZWRITE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats: []
+    m_Colors:
+    - _MainColor: {r: 16.768694, g: 0, b: 0, a: 0.21568628}
+  m_BuildTextureStacks: []

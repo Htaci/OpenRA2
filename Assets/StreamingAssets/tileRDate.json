@@ -1,0 +1,862 @@
+[
+  {
+    "tileCode": 294,
+    "tileType": 0,
+    "tileName": "proad02",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 778,
+    "tileType": 0,
+    "tileName": "proadc14",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 1827,
+    "tileType": 0,
+    "tileName": "proad04",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 1823,
+    "tileType": 0,
+    "tileName": "drslpe05",
+    "tileOffset": [
+      0.27,
+      0,
+      -0.27
+    ]
+  },
+  {
+    "tileCode": -1,
+    "tileType": 0,
+    "tileName": "clear01c",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1064,
+    "tileType": 0,
+    "tileName": "pshore07",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1065,
+    "tileType": 0,
+    "tileName": "pshore08",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1059,
+    "tileType": 0,
+    "tileName": "pshore02",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1060,
+    "tileType": 0,
+    "tileName": "pshore03",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1063,
+    "tileType": 0,
+    "tileName": "pshore06",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1062,
+    "tileType": 0,
+    "tileName": "pshore05",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1061,
+    "tileType": 0,
+    "tileName": "pshore04",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 425,
+    "tileType": 0,
+    "tileName": "sandy01g",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 424,
+    "tileType": 0,
+    "tileName": "sandy01d",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 431,
+    "tileType": 0,
+    "tileName": "sandy01a",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 385,
+    "tileType": 9,
+    "tileName": "rmpfx10c",
+    "tileOffset": [
+      -0.27,
+      0,
+      -0.27
+    ]
+  },
+  {
+    "tileCode": 294,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 294,
+    "tileType": 2,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1058,
+    "tileType": 0,
+    "tileName": "pshore01",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 317,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  {
+    "tileCode": 317,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 317,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 317,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1070,
+    "tileType": 0,
+    "tileName": "breakr01",
+    "tileOffset": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  {
+    "tileCode": 1066,
+    "tileType": 1,
+    "tileName": "wclifc01",
+    "tileOffset": [
+      -0.5,
+      1,
+      0
+    ]
+  },
+  {
+    "tileCode": 1066,
+    "tileType": 0,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1070,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1070,
+    "tileType": 2,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1070,
+    "tileType": 3,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1071,
+    "tileType": 0,
+    "tileName": "breakr02",
+    "tileOffset": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  {
+    "tileCode": 1071,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1071,
+    "tileType": 2,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1071,
+    "tileType": 3,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1072,
+    "tileType": 0,
+    "tileName": "breakr03",
+    "tileOffset": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  {
+    "tileCode": 1072,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1072,
+    "tileType": 2,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1072,
+    "tileType": 3,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 152,
+    "tileType": 3,
+    "tileName": "wcliff08",
+    "tileOffset": [
+      -0.5,
+      1,
+      0.5
+    ]
+  },
+  {
+    "tileCode": 152,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 155,
+    "tileType": 0,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 155,
+    "tileType": 1,
+    "tileName": "wcliff08",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 152,
+    "tileType": 0,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 802,
+    "tileType": 0,
+    "tileName": "cliffa07",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 802,
+    "tileType": 1,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 152,
+    "tileType": 2,
+    "tileName": "wcliff08",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1067,
+    "tileType": 1,
+    "tileName": "wclifc02",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1067,
+    "tileType": 0,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 430,
+    "tileType": 0,
+    "tileName": "dlat12",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 384,
+    "tileType": 11,
+    "tileName": "rmpfx10",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 509,
+    "tileType": 0,
+    "tileName": "glat06",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 504,
+    "tileType": 0,
+    "tileName": "green01g",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 465,
+    "tileType": 0,
+    "tileName": "plat13",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 316,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 316,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 316,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 316,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 315,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 315,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 315,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 315,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 314,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 314,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 314,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 314,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 320,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 320,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 320,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 320,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 318,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 318,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 318,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 318,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 319,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 319,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 319,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 319,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 322,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 323,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 324,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 325,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 321,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 321,
+    "tileType": 1,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 321,
+    "tileType": 2,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 321,
+    "tileType": 3,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 327,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 326,
+    "tileType": 0,
+    "tileName": "uwater",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  }
+]

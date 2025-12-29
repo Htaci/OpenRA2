@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hologram Signal
+  m_Shader: {fileID: 4800000, guid: e99f8b80b1693284587af0c131f61f3d, type: 3}
+  m_Parent: {fileID: 2100000, guid: ee970999e846149438f23f36b1ecd2ea, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _COLORGLITCHFEATURE_ON
+  - _FRESNELFEATURE_ON
+  - _GRAINFEATURE_ON
+  - _MASKFEATURE_ON
+  - _POSITIONFEATURE_Y
+  - _POSITIONSPACEFEATURE_WORLD
+  - _SOFTINTERSECTION1FEATURE_COLOR
+  - _SOFTINTERSECTION2FEATURE_OFF
+  - _VOXELIZATIONFEATURE_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AlphaMaskAffect: 0.524
+    - _ColorGlitchAffect: 0.225
+    - _DissolveFeature: 0
+    - _Line1Alpha: 0.05
+    - _RandomGlitchFeature: 0
+    - _RandomGlitchTiling: 2.83
+    - _SoftIntersection1Distance: 0.22
+    - _SoftIntersection1Feature: 2
+    - _SoftIntersection1Intensity: 44.74
+    - _VoxelizationFeature1: 0
+    m_Colors:
+    - _MainColor: {r: 3.9533494, g: 1.0015029, b: 0.6416429, a: 0.05098039}
+    - _RandomGlitchOffset: {r: -0.5, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

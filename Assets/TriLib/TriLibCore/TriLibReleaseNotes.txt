@@ -1,0 +1,9 @@
+﻿2.4.4
+Changelog:
+-Fixed a glTF2 negative scale issue.
+-Fixed glTF2 material mapper roughness issues.
+-Fixed a texture scaling/offset issue.
+-Fixed a mismatched PDB file.
+-Fixed an FBX pivot issue.
+-Fixed an AssetLoaderOptions editor issue.
+-Miscellaneous fixes.

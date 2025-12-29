@@ -1,0 +1,162 @@
+[
+  {
+    "tileCode": 294,
+    "tileType": 0,
+    "tileName": "proad02",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 778,
+    "tileType": 0,
+    "tileName": "proadc14",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 1827,
+    "tileType": 0,
+    "tileName": "proad04",
+    "tileOffset": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "tileCode": 1823,
+    "tileType": 0,
+    "tileName": "drslpe05",
+    "tileOffset": [
+      0.27,
+      0,
+      -0.27
+    ]
+  },
+  {
+    "tileCode": -1,
+    "tileType": 0,
+    "tileName": "",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1064,
+    "tileType": 0,
+    "tileName": "pshore07",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1065,
+    "tileType": 0,
+    "tileName": "pshore08",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1059,
+    "tileType": 0,
+    "tileName": "pshore02",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1060,
+    "tileType": 0,
+    "tileName": "pshore03",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1063,
+    "tileType": 0,
+    "tileName": "pshore06",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1062,
+    "tileType": 0,
+    "tileName": "pshore05",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 1061,
+    "tileType": 0,
+    "tileName": "pshore04",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 425,
+    "tileType": 0,
+    "tileName": "sandy01g",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 424,
+    "tileType": 0,
+    "tileName": "sandy01d",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 431,
+    "tileType": 0,
+    "tileName": "sandy01a",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tileCode": 385,
+    "tileType": 0,
+    "tileName": "rmpfx10c",
+    "tileOffset": [
+      0,
+      0,
+      0
+    ]
+  }
+]

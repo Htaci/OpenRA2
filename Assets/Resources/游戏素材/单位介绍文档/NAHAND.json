@@ -1,0 +1,17 @@
+{
+    "UID": "NAHAND",
+    "注释":"NAHAND是苏军兵营,Version代表版本，OV指原版，如果地图或第三方包里有重写的版本，就会使用第三方包，Price是价格",
+    "Version":"OV",
+    "Name_zh_cn":"苏联兵营",
+    "Name_zh-Hant":"蘇聯兵營",
+    "Name_ru_ru":"Советские казармы",
+    "Name_en_us":"Soviet barracks",
+    "Price":600,
+    "Armor":"",
+    "Prerequisite":"",
+    "PrerequisiteOverride":"",
+    "TechLevel":1,
+    "Owner":"All"
+
+
+}
